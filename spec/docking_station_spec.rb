@@ -4,3 +4,4 @@ describe DockingStation do
   #it 'release_bike' do
   it {is_expected.to respond_to :release_bike}
 end
+  #check if the bike is working
